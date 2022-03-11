@@ -8,7 +8,7 @@ body {
 ---
 body #main {
   background-color: #eee;
-  margin: 20px 7px;
+  margin: 20px 10px;
   border-radius: 10px;
 }
 
@@ -34,6 +34,6 @@ body #main main #tribute-info figure {
 ---
 ---
 body #main footer {
-  max-width: 700px;
+  max-width: 750px;
 }
 /*# sourceMappingURL=index.css.map */
