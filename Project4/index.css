@@ -1,0 +1,28 @@
+---
+---
+body code {
+  background-color: #eee;
+  display: block;
+  padding: 10px;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+@media screen and (min-width: 767px) {
+  body #navbar {
+    max-width: 200px;
+  }
+  body #main-doc {
+    margin-left: 200px;
+  }
+}
+
+@media screen and (max-width: 766px) {
+  #main-doc {
+    margin-top: 100px;
+  }
+  section {
+    scroll-margin-top: 100px;
+  }
+}
+/*# sourceMappingURL=index.css.map */
